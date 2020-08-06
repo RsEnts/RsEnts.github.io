@@ -1,0 +1,85 @@
+# jemdoc: addcss{jemdoc.css}, nofooter
+\n
+
+= *Wenting Ye*
+
+{{<img src="selfie.jpg" width=150 align="right" style=" padding-right: 15px; padding-top: 6px;"/> }}
+*Master Student* \n
+
+
+Master of Science in Computational Data Science,\n
+Language Technologies Institute,\n
+School of Computer Science,\n
+Carnegie Mellon University\n
+
+*Email:* wentingye \[at\] cmu.edu \n
+*[https://github.com/YeWenting GitHub], [https://www.linkedin.com/in/wenting-ye/ Linkedin], [doc/CV.pdf CV] *
+
+== Biography
+
+Wenting Ye is currently a first-year master student in computational data science *(MCDS)* in School of Computer Science at *Carnegie Mellon University*. He graduated from School of Computer Science, *Beijing Univ. of Posts & Telecom.*, with three stright National Scholarships.
+
+From Oct. 2016 to Oct. 2017, he worked with [https://www.cs.cmu.edu/~haohanw/ Haohan Wang], a Ph.D. candidate at Language Technologies Institute, Carnegie Mellon University, researching genetic association with confounding factors. In 2017 summer, he had a fantastic summer internship mentored by [https://www.cs.cmu.edu/~epxing/ Prof. Eric P. Xing] and [https://www.cs.cmu.edu/~haohanw/ Haohan Wang], aiming at building a genetic association database using deep reinforcement learning. After returning to China, He joined the [https://en.wikipedia.org/wiki/Toutiao Toutiao AI Lab] as a Machine Leanring Intern, working with Dr. Zehuan Yuan to investigate how to efficiently model the spatio-temporal information for Action Detection.
+
+His main research interests include but are not limited to *machine learning* and its application in *data mining* and *computer vision*.
+
++He is looking for 2019 summer internship regarding machine learning in the U.S. If you have any positions available, please contact him!+
+
+# == Experience
+#
+# [https://en.wikipedia.org/wiki/Toutiao Toutiao AI Lab], Beijing, China, Oct. 2017 -- May 2018\n
+# *Machine Leanring Intern,*\n
+# - Researching action recognition in the video
+#
+# [http://www.sailing.cs.cmu.edu/main/ Sailing Lab], Carnegie Mellon University, Pittsburgh, June 2017 -- Sep. 2017\n
+# *Research Intern to [https://www.cs.cmu.edu/~epxing/ Prof. Eric P. Xing] and [https://www.cs.cmu.edu/~haohanw/ Haohan Wang]*\n
+# - Built a genetic association database based on deep reinforcement learning model that could automatically select the authentic articles and efficiently extract the information in the text
+# - Contributed to [http://genamap.org/ GenAMap], including improving the matrix decomposition efficiency by 50\% and adding the support for PLINK file (a wide-spread genome data format)
+#
+# Language Technologies Institute, Carnegie Mellon University, Pittsburgh, Oct. 2016 -- June 2017\n
+# *Research Intern to Haohan Wang*\n
+# - Proposed two structured variable selection models with confounding correction with two manuscripts yielded
+
+== Publication
+
+- Automatic Human-like Mining and Constructing Reliable Genetic Association Database with Deep Reinforcement Learning.\n Wang, H., Liu, X., Tao Y., *Ye, W.*, Jin, Q., Cohen, W. W., & Xing, E.P.,\n /Proceedings of The 2019 Pacific Symposium on Biocomputing/ 
+
+- [https://arxiv.org/abs/1711.04162 A Sparse Graph-structured Lasso Mixed Model for Genetic Association with Confounding Correction].\n*Ye, W*., Liu, X., Wang, H., & Xing, E. P.,\n /arXiv:1711.04162 \[cs.LG\]/
+
+- [https://arxiv.org/abs/1711.08265 Sparse Variable Selection in High Dimensional Heterogeneous Data with Tree Structured Responses].\nLiu, X., Wang, H., *Ye, W*., & Xing, E. P.,\n /arXiv:1711.08265 \[stat.ME\]/
+
+- Learning Functional Embedding of Genes Governed by Pair-wised Labels.\nCao, J., Wu, Z., *Ye, W.*, & Wang H.,\n /IEEE International Conference on Computational Intelligence and Applications/ *(ICCIA 2017 oral presentation)*
+
+== Presentation
+
+- Everlasting Iatric Researcher (Eir): Identifying the Article and Reading for Genetic.\nWang, H., Liu, X., & *Ye, W.*\n Carnegie Mellon University Language Technologies Institute Student Research Symposium
+
+== Selected Coursework
+
+*Multilayer Perceptron for Speech Classiﬁcation, 2018 Fall*
+- Performed context-aware speech classiﬁcation using a multilayer perceptron network on a dataset with more than 15M frames data, ranking *top 3%* (4/194) in Kaggle Competition
+
+
+*Computer System, 2018 Summer*
+- Implemented a dynamic memory allocater in C (including malloc, free, callo, reallo), using segregated free lists with first-fit search, immediate coalescing of free blocks, and a seperate singly linked list for small free blocks, yielding full score in utilization and throughput test
+- Designed a shell program in C with job control and I/O redirections
+
+== Honors & Awards
+
+National Scholarship (*Top 1\%*), 2017\n
+[http://www.comap-math.com/mcm/2016Certs/45098.pdf Interdisciplinary Contest In Modeling Meritorious Winner], 2016\n
+National Scholarship (*Top 1\%*), 2016\n
+National Scholarship (*Top 1\%*), 2015\n
+Caifang Zhuang·Chongwen Zhuang Scholarship (200 students in Fujian Province), 2014\n
+National Olympiad in Informatics in Provinces (NOIP) first prize, 2013\n
+
+== Skills
+
+*Programming Languages:*\n
+Python,  C/C\+\+, Java, Pascal, JavaScript, MATLAB, MIPS Assembly Language, LaTeX\n
+*Frameworks & Tools:*\n
+MXNet, Docker, Qt GUI, Django, Git\n
+*Language Proficiency:*\n
+English (full professional proficiency with TOEFL 107 and GRE 325+3.5), Mandarin (native), Japanese (beginner), Foochow (half native)\n
+*Personal Interest:*\n
+Basketball (school basketball team), piano, traveling (I have explored more than 25 cities), symphonies\n
